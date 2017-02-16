@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[1]:
-
 import nltk
 from nltk.corpus import stopwords
 from nltk.collocations import *
